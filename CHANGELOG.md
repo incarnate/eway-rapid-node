@@ -2,6 +2,10 @@
 
 All Notable changes will be documented in this file
 
+## 1.3.0
+
+ - Major dependency updates, only Node.js versions >8 supported
+
 ## 1.2.0
 
  - Some error codes changed to align with other eWAY SDKs:
